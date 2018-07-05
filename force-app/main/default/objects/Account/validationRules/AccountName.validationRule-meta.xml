@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AccountName</fullName>
+    <active>true</active>
+    <description>Test</description>
+    <errorConditionFormula>Name != &#39;bla&#39;</errorConditionFormula>
+    <errorMessage>Don&#39;t call your account &quot;bla&quot;, that&#39;s rude...</errorMessage>
+</ValidationRule>
