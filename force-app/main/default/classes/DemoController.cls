@@ -5,7 +5,7 @@ public with sharing class DemoController {
     public DemoController() {}
 
     /**
-     * Get the version of the SFDX demo app - updated again
+     * Get the version of the SFDX demo app - updated again and again
      */
     public String getAppVersion() {
         return '1.0.0';
