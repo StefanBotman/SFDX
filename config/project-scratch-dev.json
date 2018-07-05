@@ -1,0 +1,7 @@
+{
+    "orgName": "SFDX CICD Dev",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}

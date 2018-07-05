@@ -1,0 +1,7 @@
+{
+    "orgName": "SFDX CICD Prod",
+    "edition": "Enterprise",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
