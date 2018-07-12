@@ -15,7 +15,8 @@
     "url": "https://github.com/wadewegner/salesforce-cli-buildpack#v3"
   }, {
     "url": "https://github.com/wadewegner/salesforce-dx-buildpack#v3"
-  }],
+  }, {
+	"url": "heroku/java"}],
   "env": {
     "DEV_HUB_SFDX_AUTH_URL": {
       "required": true
@@ -31,5 +32,9 @@
         "test": "./bin/test.sh"
       }
     }
+  },
+  "scripts": {
+	"test-setup": "./vendor/sfdx/release.sh ci-$SOURCE_VERSION && ./bin/test-setup.sh",
+	"test": "./bin/test.sh"
   }
 }
