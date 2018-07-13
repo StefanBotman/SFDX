@@ -1,0 +1,242 @@
+[
+    [
+        "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530792443363,
+            "changeTime": 1530792443363,
+            "contentHash": "afa93b7c40deab8cdbd247350ad17a9bc39369cd",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530792443357,
+            "changeTime": 1530792443357,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530793592913,
+            "changeTime": 1530793592913,
+            "contentHash": "468b8c5791e14bd25304742423e7e1a705ab36fc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530792443362,
+            "changeTime": 1530792443362,
+            "contentHash": "76e289d2d4d831eba496e8b44dc7ba02f2756b15",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\main\\default\\classes\\DemoController.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\main\\default\\classes\\DemoController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 365,
+            "modifiedTime": 1531401876637,
+            "changeTime": 1531401876637,
+            "contentHash": "3c2dae9c4e2105ce17f9732623559293a7084c5d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\main\\default\\classes\\DemoController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\main\\default\\classes\\DemoController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 177,
+            "modifiedTime": 1530792443363,
+            "changeTime": 1530792443363,
+            "contentHash": "d1db78898fac7cd8e7bf53bbf5f457c59318d685",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530793592914,
+            "changeTime": 1530793592914,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "n",
+            "sourcePath": "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530793592914,
+            "changeTime": 1530793592914,
+            "contentHash": "b4eee88c903fa0d92d4e81b9f51a50ead8d7e6e9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\main\\default\\objects\\Account\\validationRules",
+        {
+            "state": "n",
+            "sourcePath": "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\main\\default\\objects\\Account\\validationRules",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530793592918,
+            "changeTime": 1530793592918,
+            "contentHash": "7023dc028718725b6f492977677a735fb07fe0ee",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\main\\default\\objects\\Account\\validationRules\\AccountName.validationRule-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\main\\default\\objects\\Account\\validationRules\\AccountName.validationRule-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 391,
+            "modifiedTime": 1530793592919,
+            "changeTime": 1530793592919,
+            "contentHash": "a284c22c5ca1314f3c1ec3a2c85b6757f1120fa3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\test",
+        {
+            "state": "n",
+            "sourcePath": "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\test",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530792443365,
+            "changeTime": 1530792443365,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\test\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\test\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530792443368,
+            "changeTime": 1530792443368,
+            "contentHash": "1adaa84dc07a16d34ede5b9a70713ff832a0f853",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\test\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\test\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530792443371,
+            "changeTime": 1530792443371,
+            "contentHash": "5144f1861400212c6d4a274d925b0ff04bede7bb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\test\\default\\classes\\DemoControllerTests.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\test\\default\\classes\\DemoControllerTests.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 219,
+            "modifiedTime": 1531389364507,
+            "changeTime": 1531389364507,
+            "contentHash": "0cb08df763ee2e1c3276b5c2f95b63a994055501",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\test\\default\\classes\\DemoControllerTests.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\data\\dcloudarchitect\\sfdx\\SFDX\\force-app\\test\\default\\classes\\DemoControllerTests.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1530792443371,
+            "changeTime": 1530792443371,
+            "contentHash": "36653e7488879c0ed6d7bd08805295fa678ca822",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\data\\dcloudarchitect\\sfdx\\SFDX",
+        {
+            "state": "n",
+            "sourcePath": "C:\\data\\dcloudarchitect\\sfdx\\SFDX",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531394039316,
+            "changeTime": 1531394039316,
+            "contentHash": "ab7ad19a8e510eb70260f72550fef0d8f5b450f2",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
